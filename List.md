@@ -2,3 +2,5 @@
 - bananas
 - kiwi
 - eggs
+- bacon 
+- beans
