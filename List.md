@@ -4,4 +4,6 @@
 - eggs
 - bacon 
 - strawberry
-
+- bread
+- olives
+- orange
