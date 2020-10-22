@@ -3,4 +3,5 @@
 - kiwi
 - eggs
 - bacon 
-
+- strawberry
+- jam
