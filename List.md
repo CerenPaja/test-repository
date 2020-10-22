@@ -1,7 +1,7 @@
 # My List 
 - pineapples
 - bananas
-- whole grain
+- cake
 - eggs
 - bacon 
 - strawberry
